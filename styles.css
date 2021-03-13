@@ -1,0 +1,25 @@
+/* .card img {
+  display: flex;
+  max-width: 300px;;
+} */
+
+/* languages */
+.languages{
+  margin-top: 100px; 
+}
+/* Card */
+.card{
+  margin:18px 10px 40px;
+  transition: transform 0.2s ease-in;
+}
+.card:hover{
+  transform: translateY(-15px);
+}
+
+/* social icons in footer */
+.fab{
+  transition: transform 0.2s ease-in;
+}
+.fab:hover{
+  transform: translateY(-15px);
+}
